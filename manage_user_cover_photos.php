@@ -2,7 +2,7 @@
 /*
  *      OSCLass – software for creating and publishing online classified
  *                           advertising platforms
- *
+ *        Created by Henry Fernandez Hernandez. uwwclass.com / uwwclass.net
  *                        Copyright (C) 2010 OSCLASS
  *
  *       This program is free software: you can redistribute it and/or

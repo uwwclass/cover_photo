@@ -1,0 +1,1 @@
+Note: replace no_picture.jpg  with a base picture and name it the same.

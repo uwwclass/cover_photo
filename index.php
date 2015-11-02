@@ -3,8 +3,8 @@
 Plugin Name: Cover Photo 
 Plugin URI: http://www.osclass.org
 Description: Allows users to upload a Cover  picture
-Version: 3.0.2.1
-Author: Customized by Henry(uwwclass.com)
+Version: 3.0.2.1 +
+Author: Created by Henry Fernandez Hernandez. uwwclass.com / uwwclass.net
 Author URI: http://www.osclass.org/
 Short Name: cover_photo
 */
